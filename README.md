@@ -1,19 +1,21 @@
 <h1>Resources for the open sourced Skillcorner broadcast tracking data</h1>
 <br>
 
-[@SkillCorner](https://twitter.com/SkillCorner) released nine games worth of broadcast tracking data for the top games of the 2019/2020 season in [this repository](https://github.com/SkillCorner/opendata) as part of the [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) Initiative.  
+[@SkillCorner](https://twitter.com/SkillCorner) released nine games worth of broadcast tracking data for the top games of the 2019/2020 season in [this repository](https://github.com/SkillCorner/opendata) as part of the [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) Initiative.
 
 <br>
 
-This repository aims to provide an overview into resources for analyzing the games, working with the data and showcasing applications of the broadcast tracking data.  
+This repository aims to provide an overview into resources for analyzing the games, working with the data and showcasing applications of the broadcast tracking data.
 <br>
 
-It would be especially nice if this could spark a collaboration of people with different strengths and backgrounds like analyzing the games and singling out key tactical ideas important in a specific game, people with the technical skills needed to implement those very ideas and people whose strength lie in the communication of those ideas via words, graphics and videos.  
+It would be especially nice if this could spark a collaboration of people with different strengths and backgrounds like analyzing the games and singling out key tactical ideas important in a specific game, people with the technical skills needed to implement those very ideas and people whose strength lie in the communication of those ideas via words, graphics and videos.
 <br>
 
 If you create something based on the SkillCorner data, please let [@SkillCorner](https://twitter.com/SkillCorner) know on Twitter and if you want to have it linked to or showcased in this repository, open an issue or mention / DM me on my twitter handle [@danzn1](https://twitter.com/danzn1).
 
-If you know of further existing analysis about those games, please let me know or create a Pull Request.
+If you know of further existing analysis about those games, please let me know or create a Pull Request.  
+I welcome contributions!
+
 <br>
 <br>
 <h2>Games:</h2>

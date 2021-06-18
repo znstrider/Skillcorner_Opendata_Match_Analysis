@@ -1,4 +1,4 @@
-<h1>Analyis of games with open sourced Skillcorner broadcast tracking data</h1>
+<h1>Resources for the open sourced Skillcorner broadcast tracking data</h1>
 <br>
 
 [@SkillCorner](https://twitter.com/SkillCorner) released nine games worth of broadcast tracking data for the top games of the 2019/2020 season in [this repository](https://github.com/SkillCorner/opendata) as part of the [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) Initiative.  
@@ -13,7 +13,7 @@ It would be especially nice if this could spark a collaboration of people with d
 
 If you create something based on the SkillCorner data, please let [@SkillCorner](https://twitter.com/SkillCorner) know on Twitter and if you want to have it linked to or showcased in this repository, open an issue or mention / DM me on my twitter handle [@danzn1](https://twitter.com/danzn1).
 
-If you know of further existing analysis about those games, please let me know, and I will add links to this repository.
+If you know of further existing analysis about those games, please let me know or create a Pull Request.
 <br>
 <br>
 <h2>Games:</h2>
@@ -30,7 +30,7 @@ If you know of further existing analysis about those games, please let me know, 
 - [Watch The Game On Footballia](https://footballia.net/matches/borussia-dortmund-bayern-munchen-bundesliga-2019-2020)
 - [WhoScored MatchCentre](https://www.whoscored.com/Matches/1388424/Live/Germany-Bundesliga-2019-2020-Borussia-Dortmund-Bayern-Munich)  
 - [Miasanrot Game Review (DEU)](https://miasanrot.de/10-bayern-schlaegt-dortmund-im-spiel-um-deutsche-meisterschaft/)  
-- [@cc_eckner Game Preview Video Blog on Spielverlagerung (DEU)](https://spielverlagerung.de/2020/05/24/dortmund-gegen-bayern-welche-faktoren-entscheiden-das-duell/)  
+- [@cc_eckner](https://twitter.com/cc_eckner) [Game Preview Video Blog on Spielverlagerung (DEU)](https://spielverlagerung.de/2020/05/24/dortmund-gegen-bayern-welche-faktoren-entscheiden-das-duell/)  
 
 <br>
 <h3>ID: 2440 - Liverpool vs Manchester City on 2019-11-10</h3>

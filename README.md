@@ -25,6 +25,7 @@ I welcome contributions!
 - [Watch The Game On Footballia](https://footballia.net/matches/bayern-munchen-borussia-dortmund-bundesliga-2019-2020)
 - [WhoScored MatchCentre](https://www.whoscored.com/Matches/1388229/Live/Germany-Bundesliga-2019-2020-Bayern-Munich-Borussia-Dortmund)  
 - [Miasanrot Game Review (DEU)](https://miasanrot.de/bayern-bvb-analyse-bundesliga/)
+- [Between the Posts Match Analysis](https://betweentheposts.net/bayern-munich-4-0-borussia-dortmund-tactical-review-analysis-bayern-press-well-blow-dortmund-off-pitch/)
 
 <br>
 <h3>ID: 3749 - Dortmund vs Bayern Munchen on 2020-05-26</h3>
@@ -32,6 +33,7 @@ I welcome contributions!
 - [Watch The Game On Footballia](https://footballia.net/matches/borussia-dortmund-bayern-munchen-bundesliga-2019-2020)
 - [WhoScored MatchCentre](https://www.whoscored.com/Matches/1388424/Live/Germany-Bundesliga-2019-2020-Borussia-Dortmund-Bayern-Munich)  
 - [Miasanrot Game Review (DEU)](https://miasanrot.de/10-bayern-schlaegt-dortmund-im-spiel-um-deutsche-meisterschaft/)  
+- [Between the Posts Match Analysis](https://betweentheposts.net/borussia-dortmund-bayern-munich-spectacular-kimmich-goal-decides-fast-paced-title-clash-0-1/)
 - [@cc_eckner](https://twitter.com/cc_eckner) [Game Preview Video Blog on Spielverlagerung (DEU)](https://spielverlagerung.de/2020/05/24/dortmund-gegen-bayern-welche-faktoren-entscheiden-das-duell/)  
 
 <br>
@@ -39,12 +41,15 @@ I welcome contributions!
 
 - [Watch The Game On Footballia](https://footballia.net/matches/liverpool-fc-manchester-city-premier-league-2019-2020)
 - [WhoScored MatchCentre](https://www.whoscored.com/Matches/1376001/Live/England-Premier-League-2019-2020-Liverpool-Manchester-City)
+- [Between the Posts Match Analysis](https://betweentheposts.net/liverpool-manchester-city-liverpool-take-decisive-step-towards-first-title-in-30-years-3-1/)
 
 <br>
 <h3>ID: 4039 - Manchester City vs Liverpool on 2020-07-02</h3>
 
 - [Watch The Game On Footballia](https://footballia.net/matches/manchester-city-liverpool-fc-premier-league-2019-2020)
 - [WhoScored MatchCentre](https://www.whoscored.com/Matches/1376248/Live/England-Premier-League-2019-2020-Manchester-City-Liverpool)
+- [Between the Posts Match Analysis](https://betweentheposts.net/manchester-city-liverpool-de-bruyne-co-rain-on-liverpools-title-parade-4-0/)
+- [Spielverlagerung.com Match Analysis](https://spielverlagerung.com/2020/07/04/a-most-interesting-irrelevant-match/)
 
 <br>
 <h3>ID: 2841 - FC Barcelona vs Real Madrid on 2019-12-18</h3>
@@ -57,6 +62,7 @@ I welcome contributions!
 
 - [Watch The Game On Footballia](https://footballia.net/matches/real-madrid-fc-barcelona-liga-1-division-2019-2020)
 - [WhoScored MatchCentre](https://www.whoscored.com/Matches/1394360/Live/Spain-LaLiga-2019-2020-Real-Madrid-Barcelona)
+- [Between the Posts Match Analysis](https://betweentheposts.net/real-madrid-barcelona-2-0-tactics-prevail-disorganized-clasico/)
 
 <br>
 <h3>ID: 2068 - Inter vs Juventus on 2019-10-06</h3>
@@ -64,17 +70,27 @@ I welcome contributions!
 - [Watch The Game On Footballia](https://footballia.net/matches/fc-internazionale-juventus-fc-serie-a-2019-2020)
 - [WhoScored MatchCentre](https://www.whoscored.com/Matches/1415759/Live/Italy-Serie-A-2019-2020-Inter-Juventus)
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Inter&#39;s way of pressing when Juventus start their buildup.<a href="https://twitter.com/hashtag/JUVEINTER?src=hash&amp;ref_src=twsrc%5Etfw">#JUVEINTER</a> <a href="https://twitter.com/hashtag/SerieA?src=hash&amp;ref_src=twsrc%5Etfw">#SerieA</a> <a href="https://t.co/g3TLzA7Pxw">pic.twitter.com/g3TLzA7Pxw</a></p>&mdash; Between The Posts (@BetweenThePosts) <a href="https://twitter.com/BetweenThePosts/status/1180923032996601857?ref_src=twsrc%5Etfw">October 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 <br>
 <h3>ID: 3518 - Juventus vs Inter on 2020-03-08</h3>
 
 - [Watch The Game On Footballia](https://footballia.net/matches/juventus-fc-fc-internazionale-serie-a-2019-2020)
 - [WhoScored MatchCentre](https://www.whoscored.com/Matches/1415944/Live/Italy-Serie-A-2019-2020-Juventus-Inter)
+- [Between the Posts Match Analysis](https://betweentheposts.net/juventus-internazionale-derby-ditalia-loss-closes-curtains-on-inters-title-hopes-2-0/)
 
 <br>
 <h3>ID: 2269 - Paris vs Marseille on 2019-10-27</h3>
 
 - [Watch The Game On Footballia](https://footballia.net/matches/paris-saint-germain-olympique-de-marseille-ligue-1-2019-2020)
 - [WhoScored MatchCentre](https://www.whoscored.com/Matches/1376701/Live/France-Ligue-1-2019-2020-Paris-Saint-Germain-Marseille)
+
+<br>
+
+<h2>Team Analysis</h2>
+
+- [Liverpool's Pressing System (Spielverlagerung)](https://spielverlagerung.com/2019/05/09/liverpools-pressing-system/)
+- [Liverpool Throwin Analysis (Spielverlagerung)](https://spielverlagerung.com/2020/01/31/liverpool-throw-in-analysis/)
 
 <br>
 

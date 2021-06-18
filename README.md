@@ -70,8 +70,6 @@ I welcome contributions!
 - [Watch The Game On Footballia](https://footballia.net/matches/fc-internazionale-juventus-fc-serie-a-2019-2020)
 - [WhoScored MatchCentre](https://www.whoscored.com/Matches/1415759/Live/Italy-Serie-A-2019-2020-Inter-Juventus)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Inter&#39;s way of pressing when Juventus start their buildup.<a href="https://twitter.com/hashtag/JUVEINTER?src=hash&amp;ref_src=twsrc%5Etfw">#JUVEINTER</a> <a href="https://twitter.com/hashtag/SerieA?src=hash&amp;ref_src=twsrc%5Etfw">#SerieA</a> <a href="https://t.co/g3TLzA7Pxw">pic.twitter.com/g3TLzA7Pxw</a></p>&mdash; Between The Posts (@BetweenThePosts) <a href="https://twitter.com/BetweenThePosts/status/1180923032996601857?ref_src=twsrc%5Etfw">October 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
 <br>
 <h3>ID: 3518 - Juventus vs Inter on 2020-03-08</h3>
 
